@@ -10,9 +10,7 @@ LANGKAH PEMBUATAN TABUKASI SILANG
 9. Data pada lembar kerja baru akan diurutkan berdasarkan tahun secara menaik.
 ```
 
-
-
-KODE JAVASCRIPT
+//KODE JAVASCRIPT
 function typeAndYear() {
   let ss = SpreadsheetApp.getActive();
   let sheet = ss.getSheetByName('Penyebab Kematian di Indonesia yang Dilaporkan - Clean');
@@ -57,3 +55,10 @@ function typeAndYear() {
     }
   }
 }
+
+```
+Hasil Tabulasi Silang:
+Type	2000	2001	2002	2003	2004	2005	2006	2007	2008	2009	2010	2011	2012
+Bencana Alam	0	0	0	0	166698	1973	6960	562	262	1447	1306	172	174
+Bencana Non Alam dan Penyakit	339	324	435	633	54046	121063	120104	88713	106035	31661	37922	1967	1595
+Bencana Sosial	0	0	0	0	0	0	1	0	1	16	33	34	65
