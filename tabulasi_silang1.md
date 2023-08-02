@@ -1,4 +1,4 @@
-```LANGKAH PEMBUATAN TABULASI SILANG
+``` LANGKAH PEMBUATAN TABUKASI SILANG
 1. Buka Google Sheets dan buatlah Spreadsheet baru atau gunakan yang sudah ada.
 2. Import file yang akan dibuat tabulasi silang
 3. Buka skrip editor (Script Editor) dengan mengklik "Extensions" di atas, kemudian pilih "Apps Script."
@@ -7,7 +7,8 @@
 6. Jalankan fungsi typeAndYear() dengan mengklik tombol play (ikon segitiga) di atas atau dengan mengetikkan nama fungsi tersebut di baris perintah dan menekan Enter.
 7. Kode akan mengeksekusi dan membuat lembar kerja baru dengan nama 'Kematian Berdasarkan Tahun dan Tipe' yang berisi tabulasi silang dari data kematian berdasarkan tahun dan jenis kematian.
 8. Lembar kerja baru akan berisi jenis kematian pada kolom A, tahun pada baris pertama, dan jumlah kematian berdasarkan tipe dan tahun di sel-sel lainnya.
-9. Data pada lembar kerja baru akan diurutkan berdasarkan tahun secara menaik.```
+9. Data pada lembar kerja baru akan diurutkan berdasarkan tahun secara menaik.
+```
 
 
 
