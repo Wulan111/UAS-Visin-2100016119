@@ -12,7 +12,7 @@ LANGKAH PEMBUATAN TABUKASI SILANG
 
 
 
-```KODE JAVASCRIPT
+KODE JAVASCRIPT
 function typeAndYear() {
   let ss = SpreadsheetApp.getActive();
   let sheet = ss.getSheetByName('Penyebab Kematian di Indonesia yang Dilaporkan - Clean');
