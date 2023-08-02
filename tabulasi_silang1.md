@@ -1,4 +1,4 @@
-``` LANGKAH PEMBUATAN TABUKASI SILANG
+LANGKAH PEMBUATAN TABUKASI SILANG
 1. Buka Google Sheets dan buatlah Spreadsheet baru atau gunakan yang sudah ada.
 2. Import file yang akan dibuat tabulasi silang
 3. Buka skrip editor (Script Editor) dengan mengklik "Extensions" di atas, kemudian pilih "Apps Script."
@@ -56,4 +56,4 @@ function typeAndYear() {
       newSheet.getRange(i + 2, j + 2).setValue(totalDeaths);
     }
   }
-}```
+}
