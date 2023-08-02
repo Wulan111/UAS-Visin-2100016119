@@ -1,4 +1,4 @@
-LANGKAH PEMBUATAN TABUKASI SILANG
+## LANGKAH PEMBUATAN TABULASI SILANG
 1. Buka Google Sheets dan buatlah Spreadsheet baru atau gunakan yang sudah ada.
 2. Import file yang akan dibuat tabulasi silang
 3. Buka skrip editor (Script Editor) dengan mengklik "Extensions" di atas, kemudian pilih "Apps Script."
@@ -57,7 +57,7 @@ function typeAndYear() {
 }
 
 ```
-Hasil Tabulasi Silang:
+HASIL TABULASI SILANG:
 | Type                         | 2000 | 2001 | 2002 | 2003 | 2004  | 2005  | 2006   | 2007 | 2008   | 2009  | 2010 | 2011 | 2012 |
 |------------------------------|------|------|------|------|-------|-------|--------|------|--------|-------|------|------|------|
 | Bencana Alam                 | 0    | 0    | 0    | 0    | 166698| 1973  | 6960   | 562  | 262    | 1447  | 1306 | 172  | 174  |
